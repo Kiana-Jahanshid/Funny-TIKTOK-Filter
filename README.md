@@ -12,24 +12,24 @@ Execute this command for each of the python files, in terminal , for example for
 <br>
 
 <p float="center">
-    <img src  = "https://github.com/kiana-jahanshid/Image-Processing/blob/main/Assignment_33/funny_filter/output/face1.JPG" width=400 />
-    <img src  = "https://github.com/kiana-jahanshid/Image-Processing/blob/main/Assignment_33/funny_filter/output/face3.JPG" width=400 />
-    <img src  = "https://github.com/kiana-jahanshid/Image-Processing/blob/main/Assignment_33/funny_filter/output/face4.JPG" width=400 />   
+    <img src  = "https://github.com/kiana-jahanshid/Image-Processing/blob/main/Assignment_33/funny_filter/output/face1.JPG" width=300 />
+    <img src  = "https://github.com/kiana-jahanshid/Image-Processing/blob/main/Assignment_33/funny_filter/output/face3.JPG" width=300 />
+    <img src  = "https://github.com/kiana-jahanshid/Image-Processing/blob/main/Assignment_33/funny_filter/output/face4.JPG" width=300 />   
 
 </p>
 
 <br>
 
 <p float="center">
-    <img src  = "https://github.com/kiana-jahanshid/Image-Processing/blob/main/Assignment_33/funny_filter/output/face9.JPG" width=200 />
-    <img src  = "https://github.com/kiana-jahanshid/Image-Processing/blob/main/Assignment_33/funny_filter/output/face10.JPG" width=200 />
-    <img src  = "https://github.com/kiana-jahanshid/Image-Processing/blob/main/Assignment_33/funny_filter/output/face11.JPG" width=200 />   
+    <img src  = "https://github.com/kiana-jahanshid/Image-Processing/blob/main/Assignment_33/funny_filter/output/face9.JPG" width=300 />
+    <img src  = "https://github.com/kiana-jahanshid/Image-Processing/blob/main/Assignment_33/funny_filter/output/face10.JPG" width=300 />
+    <img src  = "https://github.com/kiana-jahanshid/Image-Processing/blob/main/Assignment_33/funny_filter/output/face11.JPG" width=300 />   
 </p>
 
 <p float="center">
-    <img src  = "https://github.com/kiana-jahanshid/Image-Processing/blob/main/Assignment_33/funny_filter/output/face2.JPG" width=200 />
-    <img src  = "https://github.com/kiana-jahanshid/Image-Processing/blob/main/Assignment_33/funny_filter/output/face5.JPG" width=200 />
-    <img src  = "https://github.com/kiana-jahanshid/Image-Processing/blob/main/Assignment_33/funny_filter/output/face6.JPG" width=200 />   
+    <img src  = "https://github.com/kiana-jahanshid/Image-Processing/blob/main/Assignment_33/funny_filter/output/face2.JPG" width=300 />
+    <img src  = "https://github.com/kiana-jahanshid/Image-Processing/blob/main/Assignment_33/funny_filter/output/face5.JPG" width=300 />
+    <img src  = "https://github.com/kiana-jahanshid/Image-Processing/blob/main/Assignment_33/funny_filter/output/face6.JPG" width=300 />   
 </p>
 
 <br>
