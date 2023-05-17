@@ -12,18 +12,18 @@ Execute this command for each of the python files, in terminal , for example for
 <br>
 
 <p float="center">
-    <img src  = "https://github.com/kiana-jahanshid/Funny-TIKTOK-Filter/blob/main/output/face1.JPG" width=300 />
-    <img src  = "https://github.com/kiana-jahanshid/Funny-TIKTOK-Filter/blob/main/output/face3.JPG" width=300 />
-    <img src  = "https://github.com/kiana-jahanshid/Funny-TIKTOK-Filter/blob/main/output/face4.JPG" width=300 />   
+    <img src  = "https://github.com/kiana-jahanshid/Funny-TIKTOK-Filter/blob/main/output/face1.JPG" width=230 />
+    <img src  = "https://github.com/kiana-jahanshid/Funny-TIKTOK-Filter/blob/main/output/face3.JPG" width=230 />
+    <img src  = "https://github.com/kiana-jahanshid/Funny-TIKTOK-Filter/blob/main/output/face4.JPG" width=230 />   
 
 </p>
 
 <br>
 
 <p float="center">
-    <img src  = "https://github.com/kiana-jahanshid/Funny-TIKTOK-Filter/blob/main/output/face9.JPG" width=300 />
-    <img src  = "https://github.com/kiana-jahanshid/Funny-TIKTOK-Filter/blob/main/output/face10.JPG" width=300 />
-    <img src  = "https://github.com/kiana-jahanshid/Funny-TIKTOK-Filter/blob/main/output/face11.JPG" width=300 />   
+    <img src  = "https://github.com/kiana-jahanshid/Funny-TIKTOK-Filter/blob/main/output/face9.JPG" width=230 />
+    <img src  = "https://github.com/kiana-jahanshid/Funny-TIKTOK-Filter/blob/main/output/face10.JPG" width=230 />
+    <img src  = "https://github.com/kiana-jahanshid/Funny-TIKTOK-Filter/blob/main/output/face11.JPG" width=230 />   
 </p>
 
 <p float="center">
